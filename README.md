@@ -47,3 +47,5 @@ O arquivo JavaScript é usado para a lógica do jogo.
 - Para funcionalidade completa, o arquivo `app.js` deve conter a lógica do jogo, e o arquivo `style.css` deve conter os estilos necessários.
 - O script JavaScript é carregado de forma assíncrona para garantir que a página é renderizada antes da execução do script.
 
+## Deploy
+- https://jsgame-seven.vercel.app
